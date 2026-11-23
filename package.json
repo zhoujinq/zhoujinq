@@ -1,0 +1,14 @@
+{
+  "name": "zhoujinq-github-profile",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Self-hosted SVG assets and contribution snake for zhoujinq's GitHub profile.",
+  "scripts": {
+    "generate": "node scripts/generate.mjs",
+    "check": "node --check scripts/generate.mjs"
+  },
+  "dependencies": {
+    "generate-snake-animation": "^3.5.0"
+  }
+}
