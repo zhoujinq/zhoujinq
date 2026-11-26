@@ -5,19 +5,19 @@
 <rect x=".5" y=".5" width="299" height="194" rx="12" fill="#171614" stroke="#37332d"/>
 <text x="20" y="30" font-family="Segoe UI, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="650" fill="#f4efe7">Top Languages</text>
 <rect x="20" y="47" width="260" height="9" rx="2" fill="#37332d"/>
-<rect x="20.00" y="47" width="183.89" height="9" rx="2" fill="#e34c26"/>
-<rect x="203.89" y="47" width="39.06" height="9" rx="2" fill="#3572a5"/>
-<rect x="242.95" y="47" width="34.30" height="9" rx="2" fill="#f1e05a"/>
-<rect x="277.25" y="47" width="2.71" height="9" rx="2" fill="#8b8378"/>
+<rect x="20.00" y="47" width="180.80" height="9" rx="2" fill="#e34c26"/>
+<rect x="200.80" y="47" width="42.55" height="9" rx="2" fill="#3572a5"/>
+<rect x="243.35" y="47" width="33.72" height="9" rx="2" fill="#f1e05a"/>
+<rect x="277.07" y="47" width="2.89" height="9" rx="2" fill="#8b8378"/>
 <rect x="279.96" y="47" width="1.00" height="9" rx="2" fill="#663399"/>
 <circle cx="24" cy="78" r="4" fill="#e34c26"/>
-<text x="34" y="82" font-family="Segoe UI, PingFang SC, Microsoft YaHei, sans-serif" font-size="10.5" fill="#b0a79b">HTML 70.73%</text>
+<text x="34" y="82" font-family="Segoe UI, PingFang SC, Microsoft YaHei, sans-serif" font-size="10.5" fill="#b0a79b">HTML 69.54%</text>
 <circle cx="166" cy="78" r="4" fill="#3572a5"/>
-<text x="176" y="82" font-family="Segoe UI, PingFang SC, Microsoft YaHei, sans-serif" font-size="10.5" fill="#b0a79b">Python 15.02%</text>
+<text x="176" y="82" font-family="Segoe UI, PingFang SC, Microsoft YaHei, sans-serif" font-size="10.5" fill="#b0a79b">Python 16.36%</text>
 <circle cx="24" cy="102" r="4" fill="#f1e05a"/>
-<text x="34" y="106" font-family="Segoe UI, PingFang SC, Microsoft YaHei, sans-serif" font-size="10.5" fill="#b0a79b">JavaScript 13.19%</text>
+<text x="34" y="106" font-family="Segoe UI, PingFang SC, Microsoft YaHei, sans-serif" font-size="10.5" fill="#b0a79b">JavaScript 12.97%</text>
 <circle cx="166" cy="102" r="4" fill="#8b8378"/>
-<text x="176" y="106" font-family="Segoe UI, PingFang SC, Microsoft YaHei, sans-serif" font-size="10.5" fill="#b0a79b">PowerShell 1.04%</text>
+<text x="176" y="106" font-family="Segoe UI, PingFang SC, Microsoft YaHei, sans-serif" font-size="10.5" fill="#b0a79b">PowerShell 1.11%</text>
 <circle cx="24" cy="126" r="4" fill="#663399"/>
 <text x="34" y="130" font-family="Segoe UI, PingFang SC, Microsoft YaHei, sans-serif" font-size="10.5" fill="#b0a79b">CSS 0.01%</text>
 <text x="20" y="181" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9" fill="#b0a79b" letter-spacing=".4">BY CODE BYTES · PUBLIC REPOS</text>
